@@ -1,4 +1,4 @@
-# Hi, I'm Mohammad Reza Firoozi 👋
+# Hi, I'm Mohammad Reza Firoozi 
 
 🧬 **M.Sc. Student in Medical Biotechnology & Molecular Medicine** at *University of Milan*  
 🔬 **Research Interests:** Translational Oncology, RNA Biology, Immuno-Oncology & Cancer Genomics  

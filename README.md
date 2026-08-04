@@ -7,7 +7,7 @@
 
 ## 📖 About
 
-I am a cancer researcher & Biotech student with a strong focus on RNA-seq analysis, cancer genomics, and translational oncology.
+I am a cancer researcher & molecular medicine student with a strong focus on RNA-seq analysis, cancer genomics, and translational oncology.
 
 ---
 
